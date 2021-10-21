@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/Fenweldryn"><img src="https://api.daily.dev/devcards/ec7ed0b98be849699e5301833f9493fa.png?r=7u6" width="400" alt="Bruno Martins's Dev Card"/></a>
+
 <!--
 **Fenweldryn/Fenweldryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
