@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fenweldryn&layout=compact)](https://github.com/fenweldryn/github-readme-stats)
 -->
 
-- 🔭 I’m currently developing and maintaining backend payment services at MadeiraMadeira
-- 🌱 I’m currently learning VueJS + web apps
+🔭 I’m currently developing and maintaining backend payment services at MadeiraMadeira
+
 
